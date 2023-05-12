@@ -37,16 +37,18 @@ For what we know, the rest seems okay.
     - numpy
     - sys
     - pathlib
-<\p> You only need the given files in the same folder and then you can run the main. Seems obvious but if you use ImageProc, you need to plug the camera.
+
+  You only need the given files in the same folder and then you can run the main. Seems obvious but if you use ImageProc, you need to plug the camera.
 
 ## Usage
   This project was conceived to supply an external software with the deplacement of the DodecaPen
   based on its detection by the camera via its AprilTags. To test it we also provided a simple display 
   function and two generators of movement data (random and determined) to compensate for the lack of results from ImageProc.
-  <\p>You can use it as a starting point to achieve the initial problem or only to use the given classes and functions for your own project.
+  
+  You can use it as a starting point to achieve the initial problem or only to use the given classes and functions for your own project.
     
 ## Contributing
-  If you need any informations about this project, I would be pleased to answer you.
+  If you need any informations about this project, we would be pleased to answer you.
 
   I juste have to precise that this was from a scholar project which is over now.
 
